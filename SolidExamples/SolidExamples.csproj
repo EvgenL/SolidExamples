@@ -8,8 +8,4 @@
         <RootNamespace>SolidExamples</RootNamespace>
     </PropertyGroup>
 
-    <ItemGroup>
-      <ProjectReference Include="..\SolidExamples1\SolidExamples1.csproj" />
-    </ItemGroup>
-
 </Project>

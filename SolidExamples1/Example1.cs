@@ -10,21 +10,3 @@ public class Example1
     }
 }
 
-public class Transformer : IRobot
-{
-    public void Fly()
-    {
-        Console.WriteLine("Transformer: I Fly!");
-    }
-
-    public void Walk()
-    {
-        Console.WriteLine("Transformer: I Walk!");
-    }
-}
-
-public interface IRobot
-{
-    void Fly();
-    void Walk();
-}

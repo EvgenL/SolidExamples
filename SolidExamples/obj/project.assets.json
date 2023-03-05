@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "SolidExamples1/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/SolidExamples1.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/SolidExamples1.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "SolidExamples1/1.0.0": {
-      "type": "project",
-      "path": "../SolidExamples1/SolidExamples1.csproj",
-      "msbuildProject": "../SolidExamples1/SolidExamples1.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": [
-      "SolidExamples1 >= 1.0.0"
-    ]
+    "net6.0": []
   },
   "packageFolders": {
     "/Users/home/.nuget/packages/": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/home/repos/SolidExamples/SolidExamples2/SolidExamples2.csproj",
-      "projectName": "SolidExamples2",
-      "projectPath": "/Users/home/repos/SolidExamples/SolidExamples2/SolidExamples2.csproj",
+      "projectUniqueName": "/Users/home/repos/SolidExamples/SolidExamples/SolidExamples.csproj",
+      "projectName": "SolidExamples",
+      "projectPath": "/Users/home/repos/SolidExamples/SolidExamples/SolidExamples.csproj",
       "packagesPath": "/Users/home/.nuget/packages/",
-      "outputPath": "/Users/home/repos/SolidExamples/SolidExamples2/obj/",
+      "outputPath": "/Users/home/repos/SolidExamples/SolidExamples/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/home/.nuget/NuGet/NuGet.Config"
@@ -50,11 +31,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "/Users/home/repos/SolidExamples/SolidExamples1/SolidExamples1.csproj": {
-              "projectPath": "/Users/home/repos/SolidExamples/SolidExamples1/SolidExamples1.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
