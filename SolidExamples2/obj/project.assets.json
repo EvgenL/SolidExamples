@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "SolidExamples1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/SolidExamples1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolidExamples1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolidExamples1/1.0.0": {
+      "type": "project",
+      "path": "../SolidExamples1/SolidExamples1.csproj",
+      "msbuildProject": "../SolidExamples1/SolidExamples1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "SolidExamples1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/home/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/home/repos/SolidExamples/SolidExamples2/SolidExamples2.csproj",
+      "projectName": "SolidExamples2",
+      "projectPath": "/Users/home/repos/SolidExamples/SolidExamples2/SolidExamples2.csproj",
+      "packagesPath": "/Users/home/.nuget/packages/",
+      "outputPath": "/Users/home/repos/SolidExamples/SolidExamples2/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/home/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/Users/home/repos/SolidExamples/SolidExamples1/SolidExamples1.csproj": {
+              "projectPath": "/Users/home/repos/SolidExamples/SolidExamples1/SolidExamples1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

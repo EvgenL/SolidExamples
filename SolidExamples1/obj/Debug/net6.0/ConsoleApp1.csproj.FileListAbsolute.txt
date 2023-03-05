@@ -1,0 +1,15 @@
+/Users/home/repos/SolidExamples/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1
+/Users/home/repos/SolidExamples/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.deps.json
+/Users/home/repos/SolidExamples/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.runtimeconfig.json
+/Users/home/repos/SolidExamples/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.dll
+/Users/home/repos/SolidExamples/ConsoleApp1/bin/Debug/net6.0/ConsoleApp1.pdb
+/Users/home/repos/SolidExamples/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.AssemblyReference.cache
+/Users/home/repos/SolidExamples/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/repos/SolidExamples/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/home/repos/SolidExamples/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.AssemblyInfo.cs
+/Users/home/repos/SolidExamples/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/home/repos/SolidExamples/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.dll
+/Users/home/repos/SolidExamples/ConsoleApp1/obj/Debug/net6.0/refint/ConsoleApp1.dll
+/Users/home/repos/SolidExamples/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.pdb
+/Users/home/repos/SolidExamples/ConsoleApp1/obj/Debug/net6.0/ConsoleApp1.genruntimeconfig.cache
+/Users/home/repos/SolidExamples/ConsoleApp1/obj/Debug/net6.0/ref/ConsoleApp1.dll
